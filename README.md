@@ -1,37 +1,49 @@
 # Nova-AI-Voice-Assistant
 
-Nova AI is a Free to Use Open Surche AI Voive Assistent written in python!
+**Nova AI** is a free-to-use, open-source **AI voice assistant** written in Python. 🚀  
 
-## Setup
-### API Keys
+---
 
-#### [Warning] To use this Voice Assistant you have to get following APIs and save the API Keys somwhere you can come back to!
-##### 1. OpenAI:
-1. Go to https://platform.openai.com/settings/organization/api-keys and Create an Accound
-2. Go to "Billing" and add your payment information
-3. Load at least 5$ to yout account
-4. Go back to https://platform.openai.com/settings/organization/api-keys and create a API Key [DO NOT SHARE]
+## ⚙️ Setup
 
-### Installing
-1. Instal the ZIP File
-2. Extract it whereever you want
-3. Run NovaAI.bat
-4. Wait for everything to Install
-5. Follow the Steps in Setup
+### 1. API Keys
 
-### Addidional
-#### 1. Link your Spotify Account
-1. Go to https://developer.spotify.com/dashboard
-2. Click Create App
-3. Give it a Name
-4. Copy Client ID, Client Secret and redirect url
-5. In the Voice Assistant Setup once you get aseked for Spotifly agrree
-6. Follow the Steps
-  ##### Commands
-  - Play [Songname] on Spotify --> Play a Song
-  - Start --> Start a Song
-  - Stop --> Stop a Song
-  - Skip --> Skip a Sing
-  - Previous --> Go to Previous Song
-  - Lounder --> +10 Volume
-  - Quieter --> -10 Volume
+> ⚠️ **Warning:** To use Nova AI, you need API keys. Save them somewhere safe!  
+
+#### OpenAI API
+1. Go to [OpenAI API Keys](https://platform.openai.com/settings/organization/api-keys) and create an account.  
+2. Go to **Billing** and add your payment information.  
+3. Load at least **$5** to your account.  
+4. Go back to [API Keys](https://platform.openai.com/settings/organization/api-keys) and create a key. **Do NOT share your API key.**
+
+---
+
+### 2. Installing Nova AI
+
+1. Download and unzip the project.  
+2. Extract it to a folder of your choice.  
+3. Run `NovaAI.bat`.  
+4. Wait for the dependencies to install automatically.  
+5. Follow the on-screen setup steps.
+
+---
+
+### 3. Additional Setup
+
+#### Linking Your Spotify Account
+1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).  
+2. Click **Create App** and give it a name.  
+3. Copy the **Client ID**, **Client Secret**, and **Redirect URI**.  
+4. During the Nova AI setup, when asked about Spotify, follow the prompts and provide these details.  
+
+---
+
+## 🎵 Supported Spotify Commands
+
+- `Play [Songname] on Spotify` → Play a specific song  
+- `Start` → Start a song  
+- `Stop` → Stop a song  
+- `Skip` → Skip the current song  
+- `Previous` → Go to the previous song  
+- `Louder` → Increase volume by 10  
+- `Quieter` → Decrease volume by 10
