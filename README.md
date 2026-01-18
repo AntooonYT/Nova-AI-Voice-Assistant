@@ -27,11 +27,11 @@ Nova AI is a Free to Use Open Surche AI Voive Assistent written in python!
 4. Copy Client ID, Client Secret and redirect url
 5. In the Voice Assistant Setup once you get aseked for Spotifly agrree
 6. Follow the Steps
-##### Commands
-- Play [Songname] on Spotify --> Play a Song
-- Start --> Start a Song
-- Stop --> Stop a Song
-- Skip --> Skip a Sing
-- Previous --> Go to Previous Song
-- Lounder --> +10 Volume
-- Quieter --> -10 Volume
+  ##### Commands
+  - Play [Songname] on Spotify --> Play a Song
+  - Start --> Start a Song
+  - Stop --> Stop a Song
+  - Skip --> Skip a Sing
+  - Previous --> Go to Previous Song
+  - Lounder --> +10 Volume
+  - Quieter --> -10 Volume
