@@ -1,6 +1,8 @@
 # Nova-AI-Voice-Assistant
 
 **Nova AI** is a free-to-use, open-source **AI voice assistant** written in Python. 🚀  
+> ⚠️ **Warning:** You need Python on your PC or whatevery you use! If not [Click to Download](https://www.python.org/downloads/)
+
 
 ---
 
